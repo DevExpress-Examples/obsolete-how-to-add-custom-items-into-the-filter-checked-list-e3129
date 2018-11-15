@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AdvCheckedFilter.cs](./CS/BlanksObjectInFilter/AdvCheckedFilter.cs) (VB: [AdvCheckedFilter.vb](./VB/BlanksObjectInFilter/AdvCheckedFilter.vb))
+* [Form1.cs](./CS/BlanksObjectInFilter/Form1.cs) (VB: [Form1.vb](./VB/BlanksObjectInFilter/Form1.vb))
+<!-- default file list end -->
 # OBSOLETE: How to add custom items into the filter checked list.
 
 
